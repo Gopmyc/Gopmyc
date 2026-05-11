@@ -1,7 +1,7 @@
 ﻿<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Gopmyc&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:0ea5e9,100:14b8a6" alt="header">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=760&lines=42+Student;Game+Engine+and+Tools+Developer;Lua+%7C+C+%7C+TypeScript;Always+building%2C+always+learning)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=760&lines=GameDev+-+Systems+%26+Scripting;Building+engines%2C+tools+and+gameplay+systems;C+%7C+C%2B%2B+%7C+Lua+%7C+Python+%7C+Pluto+%7C+LOVR;42+student%2C+game+tech+first+mindset)](https://git.io/typing-svg)
 
   <p>
     <a href="https://github.com/Gopmyc">
@@ -13,9 +13,9 @@
 
 ## About Me
 
-- 42 student focused on systems, game tech, and clean software design.
-- I enjoy building game engines, Lua tooling, and multiplayer experiments.
-- I also work on full-stack challenges and product-oriented projects.
+- Game developer focused on systems programming, gameplay architecture, and scripting.
+- I enjoy building game engines, Lua tooling, VR experiments, and multiplayer features.
+- Student at School 42, with a strong game tech and low-level mindset.
 - Current mindset: ship fast, learn deep, iterate nonstop.
 
 ## Tech Stack
@@ -23,18 +23,20 @@
 <p>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=0f172a" alt="C">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pluto-111827?style=for-the-badge&logoColor=white" alt="Pluto">
   <img src="https://img.shields.io/badge/Love2D-EA316E?style=for-the-badge&logo=lua&logoColor=white" alt="Love2D">
+  <img src="https://img.shields.io/badge/LOVR-0F766E?style=for-the-badge&logoColor=white" alt="LOVR">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ## Current Focus
 
-- [ft_transcendence](https://github.com/Gopmyc/ft_transcendence) - Web project with modern stack and strong product scope.
 - [Overload](https://github.com/Gopmyc/Overload) - 3D game engine experimentation with Lua scripting.
-- [LineOfFire-Overload](https://github.com/Gopmyc/LineOfFire-Overload) - Gameplay and systems iteration on top of Overload.
-- [42-CURSUS](https://github.com/Gopmyc/42-CURSUS) - Main 42 journey repository.
+- [LineOfFire-Overload](https://github.com/Gopmyc/LineOfFire-Overload) - Gameplay, systems, and iteration on top of Overload.
+- [Nexum](https://github.com/Gopmyc/Nexum) - Game-oriented experimentation around architecture and scripting.
+- [ft_transcendence](https://github.com/Gopmyc/ft_transcendence) - Full-stack challenge from the 42 cursus.
 
 ## Featured Projects
 

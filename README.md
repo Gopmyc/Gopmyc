@@ -1,22 +1,25 @@
 ﻿<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Gopmyc&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:0ea5e9,100:14b8a6" alt="header">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=760&lines=GameDev+-+Systems+%26+Scripting;Building+engines%2C+tools+and+gameplay+systems;C+%7C+C%2B%2B+%7C+Lua+%7C+Python+%7C+Pluto+%7C+LOVR;42+student%2C+game+tech+first+mindset)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=760&lines=GameDev+-+Systems+%26+Scripting;I+build+engines%2C+tools%2C+and+gameplay+architecture;C+%7C+C%2B%2B+%7C+Lua+%7C+Python+%7C+Pluto+%7C+LOVR;42+student+with+a+game+tech+mindset)](https://git.io/typing-svg)
 
   <p>
     <a href="https://github.com/Gopmyc">
       <img src="https://img.shields.io/badge/Profile-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
     </a>
+    <a href="mailto:gopmyc.pro@gmail.com">
+      <img src="https://img.shields.io/badge/Contact-Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
     <img src="https://komarev.com/ghpvc/?username=Gopmyc&style=for-the-badge&color=14b8a6" alt="Profile Views">
   </p>
 </div>
 
-## About Me
+## About
 
-- Game developer focused on systems programming, gameplay architecture, and scripting.
-- I enjoy building game engines, Lua tooling, VR experiments, and multiplayer features.
-- Student at School 42, with a strong game tech and low-level mindset.
-- Current mindset: ship fast, learn deep, iterate nonstop.
+- Game developer focused on systems programming, gameplay architecture, and scripting pipelines.
+- I enjoy building engines, tooling, and multiplayer-first gameplay systems.
+- Student at School 42 with a strong game tech and low-level mindset.
+- Current mindset: ship fast, learn deep, iterate hard.
 
 ## Tech Stack
 
@@ -33,16 +36,16 @@
 
 ## Current Focus
 
-- [Nexum](https://github.com/Gopmyc/Nexum) - Core game-oriented experimentation around architecture, systems, and scripting.
-- [Overload](https://github.com/Gopmyc/Overload) - 3D game engine experimentation with Lua scripting.
+- [Nexum](https://github.com/Gopmyc/Nexum) - Main game R&D sandbox for architecture, systems, and scripting.
+- [Overload](https://github.com/Gopmyc/Overload) - 3D engine experimentation with Lua-driven gameplay.
 - [Class](https://github.com/Gopmyc/Class) - Lightweight and extensible OOP system for Lua projects.
-- [ft_transcendence](https://github.com/Gopmyc/ft_transcendence) - Full-stack challenge from the 42 cursus.
+- [ft_transcendence](https://github.com/Gopmyc/ft_transcendence) - Product-scale full-stack project from the 42 cursus.
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gopmyc&show_icons=true&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6&rank_icon=github&include_all_commits=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gopmyc&layout=compact&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=c9d1d9&langs_count=8" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gopmyc&show_icons=true&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6&rank_icon=github&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gopmyc&layout=compact&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages">
 </p>
 
 <p align="center">
@@ -53,4 +56,4 @@
 
 - GitHub: [@Gopmyc](https://github.com/Gopmyc)
 - Email: [gopmyc.pro@gmail.com](mailto:gopmyc.pro@gmail.com)
-- Open to collaborations around game tech, tools, and ambitious builds.
+- Open to collaborations around game tech, tooling, and ambitious multiplayer builds.

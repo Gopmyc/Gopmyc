@@ -38,25 +38,6 @@
 - [Class](https://github.com/Gopmyc/Class) - Lightweight and extensible OOP system for Lua projects.
 - [ft_transcendence](https://github.com/Gopmyc/ft_transcendence) - Full-stack challenge from the 42 cursus.
 
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Gopmyc/Class">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gopmyc&repo=Class&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6" alt="Class Repo Card">
-  </a>
-  <a href="https://github.com/Gopmyc/Overload">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gopmyc&repo=Overload&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6" alt="Overload Repo Card">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Gopmyc/Nexum">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gopmyc&repo=Nexum&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6" alt="Nexum Repo Card">
-  </a>
-  <a href="https://github.com/Gopmyc/docs_builder">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gopmyc&repo=docs_builder&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=c9d1d9&icon_color=14b8a6" alt="docs_builder Repo Card">
-  </a>
-</p>
-
 ## GitHub Stats
 
 <p align="center">

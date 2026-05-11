@@ -34,13 +34,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-## Current Focus
-
-- [Nexum](https://github.com/Gopmyc/Nexum) - Main game R&D sandbox for architecture, systems, and scripting.
-- [Overload](https://github.com/Gopmyc/Overload) - 3D engine experimentation with Lua-driven gameplay.
-- [Class](https://github.com/Gopmyc/Class) - Lightweight and extensible OOP system for Lua projects.
-- [ft_transcendence](https://github.com/Gopmyc/ft_transcendence) - Product-scale full-stack project from the 42 cursus.
-
 ## GitHub Stats
 
 <p align="center">

@@ -42,26 +42,26 @@
 
 <p align="center">
   <a href="https://github.com/Gopmyc/Class">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopmyc&repo=Class&theme=transparent&hide_border=true" alt="Class Repo Card">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gopmyc&repo=Class&theme=transparent&hide_border=true" alt="Class Repo Card">
   </a>
   <a href="https://github.com/Gopmyc/Overload">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopmyc&repo=Overload&theme=transparent&hide_border=true" alt="Overload Repo Card">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gopmyc&repo=Overload&theme=transparent&hide_border=true" alt="Overload Repo Card">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Gopmyc/Nexum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopmyc&repo=Nexum&theme=transparent&hide_border=true" alt="Nexum Repo Card">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gopmyc&repo=Nexum&theme=transparent&hide_border=true" alt="Nexum Repo Card">
   </a>
   <a href="https://github.com/Gopmyc/docs_builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopmyc&repo=docs_builder&theme=transparent&hide_border=true" alt="docs_builder Repo Card">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Gopmyc&repo=docs_builder&theme=transparent&hide_border=true" alt="docs_builder Repo Card">
   </a>
 </p>
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gopmyc&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopmyc&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gopmyc&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gopmyc&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages">
 </p>
 
 <p align="center">

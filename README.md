@@ -33,9 +33,9 @@
 
 ## Current Focus
 
+- [Nexum](https://github.com/Gopmyc/Nexum) - Core game-oriented experimentation around architecture, systems, and scripting.
 - [Overload](https://github.com/Gopmyc/Overload) - 3D game engine experimentation with Lua scripting.
-- [LineOfFire-Overload](https://github.com/Gopmyc/LineOfFire-Overload) - Gameplay, systems, and iteration on top of Overload.
-- [Nexum](https://github.com/Gopmyc/Nexum) - Game-oriented experimentation around architecture and scripting.
+- [Class](https://github.com/Gopmyc/Class) - Lightweight and extensible OOP system for Lua projects.
 - [ft_transcendence](https://github.com/Gopmyc/ft_transcendence) - Full-stack challenge from the 42 cursus.
 
 ## Featured Projects
@@ -49,8 +49,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Gopmyc/ft_transcendence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopmyc&repo=ft_transcendence&theme=transparent&hide_border=true" alt="ft_transcendence Repo Card">
+  <a href="https://github.com/Gopmyc/Nexum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopmyc&repo=Nexum&theme=transparent&hide_border=true" alt="Nexum Repo Card">
   </a>
   <a href="https://github.com/Gopmyc/docs_builder">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopmyc&repo=docs_builder&theme=transparent&hide_border=true" alt="docs_builder Repo Card">
@@ -71,4 +71,5 @@
 ## Lets Connect
 
 - GitHub: [@Gopmyc](https://github.com/Gopmyc)
+- Email: [gopmyc.pro@gmail.com](mailto:gopmyc.pro@gmail.com)
 - Open to collaborations around game tech, tools, and ambitious builds.
